@@ -71,7 +71,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2012"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o Darius!");
+                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o " + darius.nome + "!!\n\nGênero: " + darius.genero + "\nPosição: " + darius.posicao + "\nEspécie: " + darius.especie + "\nRecurso: " + darius.recurso + "\nTipo de Alcance: " + darius.tipo_de_alcance + "\nRegião: " + darius.regiao + "\nAno de Lançamento: " + darius.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -95,7 +95,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2014"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o Gnar!");
+                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o " + gnar.nome + "!!\n\nGênero: " + gnar.genero + "\nPosição: " + gnar.posicao + "\nEspécie: " + gnar.especie + "\nRecurso: " + gnar.recurso + "\nTipo de Alcance: " + gnar.tipo_de_alcance + "\nRegião: " + gnar.regiao + "\nAno de Lançamento: " + gnar.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -124,7 +124,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2011"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o Nocturne!");
+                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o " + nocturne.nome + "!!\n\nGênero: " + nocturne.genero + "\nPosição: " + nocturne.posicao + "\nEspécie: " + nocturne.especie + "\nRecurso: " + nocturne.recurso + "\nTipo de Alcance: " + nocturne.tipo_de_alcance + "\nRegião: " + nocturne.regiao + "\nAno de Lançamento: " + nocturne.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -152,7 +152,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2011"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o Talon!");
+                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o " + talon.nome + "!!\n\nGênero: " + talon.genero + "\nPosição: " + talon.posicao + "\nEspécie: " + talon.especie + "\nRecurso: " + talon.recurso + "\nTipo de Alcance: " + talon.tipo_de_alcance + "\nRegião: " + talon.regiao + "\nAno de Lançamento: " + talon.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -176,7 +176,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2014"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o Vel'Koz!");
+                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o " + velkoz.nome + "!!\n\nGênero: " + velkoz.genero + "\nPosição: " + velkoz.posicao + "\nEspécie: " + velkoz.especie + "\nRecurso: " + velkoz.recurso + "\nTipo de Alcance: " + velkoz.tipo_de_alcance + "\nRegião: " + velkoz.regiao + "\nAno de Lançamento: " + velkoz.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -205,7 +205,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2012"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o Draven!");
+                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o " + draven.nome + "!!\n\nGênero: " + draven.genero + "\nPosição: " + draven.posicao + "\nEspécie: " + draven.especie + "\nRecurso: " + draven.recurso + "\nTipo de Alcance: " + draven.tipo_de_alcance + "\nRegião: " + draven.regiao + "\nAno de Lançamento: " + draven.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -214,7 +214,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2012"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o Varus!");
+                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi o " + varus.nome + "!!\n\nGênero: " + varus.genero + "\nPosição: " + varus.posicao + "\nEspécie: " + varus.especie + "\nRecurso: " + varus.recurso + "\nTipo de Alcance: " + varus.tipo_de_alcance + "\nRegião: " + varus.regiao + "\nAno de Lançamento: " + varus.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -248,7 +248,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2011"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi a Riven!");
+                                                                JOptionPane.showMessageDialog(null, "A campeã que você escolheu foi a " + riven.nome + "!!\n\nGênero: " + riven.genero + "\nPosição: " + riven.posicao + "\nEspécie: " + riven.especie + "\nRecurso: " + riven.recurso + "\nTipo de Alcance: " + riven.tipo_de_alcance + "\nRegião: " + riven.regiao + "\nAno de Lançamento: " + riven.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -277,7 +277,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2012"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi a Diana!");
+                                                                JOptionPane.showMessageDialog(null, "A campeã que você escolheu foi a " + diana.nome + "!!\n\nGênero: " + diana.genero + "\nPosição: " + diana.posicao + "\nEspécie: " + diana.especie + "\nRecurso: " + diana.recurso + "\nTipo de Alcance: " + diana.tipo_de_alcance + "\nRegião: " + diana.regiao + "\nAno de Lançamento: " + diana.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -301,7 +301,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2012"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi a Elise!");
+                                                                JOptionPane.showMessageDialog(null, "A campeã que você escolheu foi a " + elise.nome + "!!\n\nGênero: " + elise.genero + "\nPosição: " + elise.posicao + "\nEspécie: " + elise.especie + "\nRecurso: " + elise.recurso + "\nTipo de Alcance: " + elise.tipo_de_alcance + "\nRegião: " + elise.regiao + "\nAno de Lançamento: " + elise.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -325,7 +325,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2014"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi a Rek'Sai!");
+                                                                JOptionPane.showMessageDialog(null, "A campeã que você escolheu foi a " + reksai.nome + "!!\n\nGênero: " + reksai.genero + "\nPosição: " + reksai.posicao + "\nEspécie: " + reksai.especie + "\nRecurso: " + reksai.recurso + "\nTipo de Alcance: " + reksai.tipo_de_alcance + "\nRegião: " + reksai.regiao + "\nAno de Lançamento: " + reksai.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -354,7 +354,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2011"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi a Leona!");
+                                                                JOptionPane.showMessageDialog(null, "A campeã que você escolheu foi a " + leona.nome + "!!\n\nGênero: " + leona.genero + "\nPosição: " + leona.posicao + "\nEspécie: " + leona.especie + "\nRecurso: " + leona.recurso + "\nTipo de Alcance: " + leona.tipo_de_alcance + "\nRegião: " + leona.regiao + "\nAno de Lançamento: " + leona.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
@@ -378,7 +378,7 @@ public class JogoPerguntas {
                                                         // Ano de Lançamento
                                                         switch (resposta.ano_de_lancamento){
                                                             case ("2012"):
-                                                                JOptionPane.showMessageDialog(null, "O campeão que você escolheu foi a Lulu!");
+                                                                JOptionPane.showMessageDialog(null, "A campeã que você escolheu foi a " + lulu.nome + "!!\n\nGênero: " + lulu.genero + "\nPosição: " + lulu.posicao + "\nEspécie: " + lulu.especie + "\nRecurso: " + lulu.recurso + "\nTipo de Alcance: " + lulu.tipo_de_alcance + "\nRegião: " + lulu.regiao + "\nAno de Lançamento: " + lulu.ano_de_lancamento);
                                                                 existe = 1;
                                                                 break;
                                                         }    
